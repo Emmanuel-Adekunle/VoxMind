@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VoxMind</string>
+    <string name="vox_study">Vox Study</string>
+    <string name="lets_play_this_game_to_enhance_your_knowledge">Lets play this game to enhance your knowledge</string>
+    <string name="All_Items">All items</string>
+    <string name="question_6_10">Question 6/10</string>
+    <string name="next">Next</string>
+    <string name="go_to_the_next_question">Go to the next question</string>
+    <string name="this_is_option_d">This is Option D</string>
+    <string name="option_d">Option D</string>
+    <string name="this_is_option_c">This is Option C</string>
+    <string name="option_c">Option C</string>
+    <string name="this_is_option_b">This is Option B</string>
+    <string name="option_b">Option B</string>
+    <string name="this_is_option_a">This is Option A</string>
+    <string name="option_a">Option A</string>
+</resources>

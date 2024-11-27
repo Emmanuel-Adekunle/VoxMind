@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552121999068",
+    "project_id": "voxmind-fa0fe",
+    "storage_bucket": "voxmind-fa0fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552121999068:android:71e362f53a2e785fcb1e19",
+        "android_client_info": {
+          "package_name": "com.example.voxmind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkBrBprlbCq7A-uRjlm4E59vxzrZhrt8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
